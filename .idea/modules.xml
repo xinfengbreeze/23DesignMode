@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/07_Adapter/07_Adapter.iml" filepath="$PROJECT_DIR$/07_Adapter/07_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Bridge/08_Bridge.iml" filepath="$PROJECT_DIR$/08_Bridge/08_Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Compsite/09_Compsite.iml" filepath="$PROJECT_DIR$/09_Compsite/09_Compsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Decorator/10_Decorator.iml" filepath="$PROJECT_DIR$/10_Decorator/10_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Proxy/11_Proxy.iml" filepath="$PROJECT_DIR$/11_Proxy/11_Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Facade/12_Facade.iml" filepath="$PROJECT_DIR$/12_Facade/12_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_SimpleFactory/1_SimpleFactory.iml" filepath="$PROJECT_DIR$/1_SimpleFactory/1_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/23DesignMode.iml" filepath="$PROJECT_DIR$/23DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_FactoryMethod/2_FactoryMethod.iml" filepath="$PROJECT_DIR$/2_FactoryMethod/2_FactoryMethod.iml" />
