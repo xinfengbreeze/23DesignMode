@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/10_Decorator/10_Decorator.iml" filepath="$PROJECT_DIR$/10_Decorator/10_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Proxy/11_Proxy.iml" filepath="$PROJECT_DIR$/11_Proxy/11_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Facade/12_Facade.iml" filepath="$PROJECT_DIR$/12_Facade/12_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Strategey/15_Strategey.iml" filepath="$PROJECT_DIR$/15_Strategey/15_Strategey.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_SimpleFactory/1_SimpleFactory.iml" filepath="$PROJECT_DIR$/1_SimpleFactory/1_SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/23DesignMode.iml" filepath="$PROJECT_DIR$/23DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_FactoryMethod/2_FactoryMethod.iml" filepath="$PROJECT_DIR$/2_FactoryMethod/2_FactoryMethod.iml" />
