@@ -8,8 +8,15 @@
       <module fileurl="file://$PROJECT_DIR$/10_Decorator/10_Decorator.iml" filepath="$PROJECT_DIR$/10_Decorator/10_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Proxy/11_Proxy.iml" filepath="$PROJECT_DIR$/11_Proxy/11_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/12_Facade/12_Facade.iml" filepath="$PROJECT_DIR$/12_Facade/12_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_AbstractModel/14_AbstractModel.iml" filepath="$PROJECT_DIR$/14_AbstractModel/14_AbstractModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_Strategey/15_Strategey.iml" filepath="$PROJECT_DIR$/15_Strategey/15_Strategey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_State/16_State.iml" filepath="$PROJECT_DIR$/16_State/16_State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Command/17_Command.iml" filepath="$PROJECT_DIR$/17_Command/17_Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Observer/18_Observer.iml" filepath="$PROJECT_DIR$/18_Observer/18_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_Visitor/19_Visitor.iml" filepath="$PROJECT_DIR$/19_Visitor/19_Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_SimpleFactory/1_SimpleFactory.iml" filepath="$PROJECT_DIR$/1_SimpleFactory/1_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_Mediator/20_Mediator.iml" filepath="$PROJECT_DIR$/20_Mediator/20_Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_Memento/21_Memento.iml" filepath="$PROJECT_DIR$/21_Memento/21_Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/23DesignMode.iml" filepath="$PROJECT_DIR$/23DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_FactoryMethod/2_FactoryMethod.iml" filepath="$PROJECT_DIR$/2_FactoryMethod/2_FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_AbstractFactory/3_AbstractFactory.iml" filepath="$PROJECT_DIR$/3_AbstractFactory/3_AbstractFactory.iml" />
